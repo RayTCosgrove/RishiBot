@@ -1,0 +1,19 @@
+{
+  "name": "rishi_bot",
+  "version": "1.0.0",
+  "description": "Rishi twitter bot.",
+  "main": "rishiBot.js",
+  "scripts": {
+    "start": "node rishiBot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rishi",
+    "lul"
+  ],
+  "author": "Raymond Cosgrove",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}

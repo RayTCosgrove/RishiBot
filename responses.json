@@ -1,0 +1,288 @@
+{
+	"replies":  [
+		{
+			"_comment": "index 0",
+			"keyword":  "PICTURE",
+			"response": "Who wouldn't want a picture of me??"
+		},
+
+		{
+			"_comment": "index 1",
+			"keyword":  "PASSWORD",
+			"response": " *cough* rishi2000 *cough*"
+		},
+
+		{
+			"_comment": "index 2",
+			"keyword":  "MONKEY",
+			"response": "God, I'm such a monkey."
+		},
+
+		{
+			"_comment": "index 3",
+			"keyword":  "GPA",
+			"response": "umm we dont talk about that."
+		},
+
+		{
+			"_comment": "index 4",
+			"keyword":  "DRIV",
+			"response": "Raymond is my chauffeur because I am bad at life and don't have my permit yet."
+		},
+
+		{
+			"_comment": "index 5",
+			"keyword":  "LOGIC",
+			"response": "If you know me you know I'm anything but logical."
+		},
+
+		{
+			"_comment": "index 6",
+			"keyword":  "SAT",
+			"response": "I started studying for the SAT when i was in the womb."
+		},
+
+		{
+			"_comment": "index 7",
+			"keyword": "PANIC",
+			"response": "THE DEEAAATHH OF A BAAACHELOOORRR"
+		},
+
+		{
+			"_comment": "index 8",
+			"keyword": "LEAGUE",
+			"response": "League of Legends? You mean my life?"
+		},
+
+		{
+			"_comment": "index 9",
+			"keyword": "DRISKILL",
+			"response": "I love me some D-Dog."
+		},
+
+		{
+			"_comment": "index 10",
+			"keyword": "THOMAS",
+			"response": "This man is my owner. I bought him a katana."
+		},
+
+		{
+			"_comment": "index 11",
+			"keyword": "SEAN",
+			"response": "This man has a cabbage for a brain and has hair longer than his sister's but i love him anyway."
+		},
+
+		{
+			"_comment": "index 12",
+			"keyword": "PETER",
+			"response": "Peter aka the scapegoat is known for his mediocre baked goods and moderately bad puns."
+		},
+
+		{
+			"_comment": "index 13",
+			"keyword": "RAY",
+			"response": "This man is my chauffeur and compsci tutor, idk what i'd do without him."
+		},
+
+		{
+			"_comment": "index 14",
+			"keyword": "JOHN",
+			"response": "My man Snowsstorms!"
+		},
+
+		{
+			"_comment": "index 15",
+			"keyword": "EAT",
+			"response": "IM NOT GONNA EAT!!!!!"
+		},
+
+		{
+			"_comment": "index 16",
+			"keyword": "RISHIRAJ",
+			"response": "WHAAAAAATTTT!?!?!?"
+		},
+
+		{
+			"_comment": "index 17",
+			"keyword": "COME HERE",
+			"response": "FOR WHAAAAAATTTT?!?!"
+		},
+
+		{
+			"_comment": "index 18",
+			"keyword": "MUSIC",
+			"response": "Big Time Rush is the best band of all time."
+		},
+
+		{
+			"_comment": "index 19",
+			"keyword": "SUTRA",
+			"response": "Kinky ;)"
+		},
+
+		{
+			"_comment": "index 20",
+			"keyword": "SISTER",
+			"response": "Funny thing is, my sister and i are actually the same person."
+		},
+
+		{
+			"_comment": "index 21",
+			"keyword": "ANDY",
+			"response": "This man is asian jesus and did better than me on the sat even though i studied for 16 years."
+		},
+
+		{
+			"_comment": "index 22",
+			"keyword": "INDIAN",
+			"response": "Im brown and proud."
+		},
+
+		{
+			"_comment": "index 23",
+			"keyword": "ANIMAL",
+			"response": "The only animals i respect are ferrets."
+		},
+
+		{
+			"_comment": "index 24",
+			"keyword": "KAPPA",
+			"response": "Can i get a kappa 123 in chat please?"
+		},
+
+		{
+			"_comment": "index 25",
+			"keyword": "CALC",
+			"response": "Some refer to me as the calc god, pretty ironic isnt it?"
+		},
+
+		{
+			"_comment": "index 26",
+			"keyword": "NO",
+			"response": "yes."
+		},
+
+		{
+			"_comment": "index 27",
+			"keyword": "YES",
+			"response": "no."
+		}
+
+
+	],
+
+	"generic": [
+
+		{
+			"_comment": "index 0",
+			"response": "I respect that."
+
+		},
+
+		{
+			"_comment": "index 1",
+			"response": "Ooooookaaayy"
+		},
+
+		{
+			"_comment": "index 2",
+			"response": "*Interupts you before you finish*"
+		},
+
+		{
+			"_comment": "index 3",
+			"response": "All you sinners stand up sing hallelujaaaaah"
+		},
+
+		{
+			"_comment": "index 4",
+			"response": "Whats up boy?"
+		},
+
+		{
+			"_comment": "index 5",
+			"response": "Actually?"
+		},
+
+		{
+			"_comment": "index 6",
+			"response": "Thats so stupid."
+		},
+
+		{
+			"_comment": "index 7",
+			"response": "I'm tilted"
+		},
+
+		{
+			"_comment": "index 8",
+			"response": "I'm either studying, playing league, or in the bath right now."
+		},
+
+		{
+			"_comment": "index 9",
+			"response": "huh"
+		},
+
+		{
+			"_comment": "index 10",
+			"response": "hehe xD"
+		}
+
+
+
+
+
+	],
+
+	"genericQ": [
+
+		{
+			"_comment": "index 0",
+			"response": "Idk im brown."
+
+		},
+
+		{
+			"_comment": "index 1",
+			"response": "What are you even trying to say?"
+		},
+
+		{
+			"_comment": "index 2",
+			"response": "Idk i just wish dolphins were real"
+		},
+
+		{
+			"_comment": "index 3",
+			"response": "NO"
+		},
+
+		{
+			"_comment": "index 4",
+			"response": "YES"
+		},
+
+		{
+			"_comment": "index 5",
+			"response": "Please never ask me a question ever again"
+		},
+
+		{
+			"_comment": "index 6",
+			"response": "Honestly, at this point, i dont even know"
+		},
+
+		{
+			"_comment": "index 7",
+			"response": "Don't worry about it."
+		},
+
+		{
+			"_comment": "index 8",
+			"response": "huh?"
+		}
+
+	]
+
+}
